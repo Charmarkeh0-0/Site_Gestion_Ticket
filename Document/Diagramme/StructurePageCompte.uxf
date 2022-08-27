@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>130</x>
+      <y>40</y>
+      <w>500</w>
+      <h>510</h>
+    </coordinates>
+    <panel_attributes>
+halign=left</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>130</x>
+      <y>40</y>
+      <w>160</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Logo DjibTel
+valign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>480</x>
+      <y>40</y>
+      <w>150</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Profil
+valign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>220</x>
+      <y>140</y>
+      <w>310</w>
+      <h>340</h>
+    </coordinates>
+    <panel_attributes>Contenue
+halign=left</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>130</x>
+      <y>500</y>
+      <w>500</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Footer
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
